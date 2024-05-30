@@ -18,7 +18,7 @@ const buildpath =path.join(_dirname,"../build")
 app.use(express.static(buildpath))
 
 app.use(cors({
-    origin: ["http://3.6.171.18"],
+    origin: ["http://3.6.171.18","https://3.6.171.18"],
     methods: ["GET", "POST"],
     credentials: true
 }));

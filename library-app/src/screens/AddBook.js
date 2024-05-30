@@ -49,6 +49,7 @@ function AddBook() {
   <option value="Arabic">Arabic</option>
   <option value="Sanskrit">Sanskrit</option>
   <option value="French">French</option>
+  <option value="French">Liturgy</option>
 </select>
 
           </div>
